@@ -54,9 +54,8 @@ async function fetchQuestion(){
   }
 }
 
-// Inicializar estado
+
 setLoading(false);
 btnResultado.addEventListener('click', fetchQuestion);
 
-// Si quieres, pide una al cargar la página automáticamente
-// fetchQuestion();
+
