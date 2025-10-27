@@ -1,2 +1,2 @@
 # proyecto-final-web-1
-es una plataforma de dos API 
+es una plataforma con una  API 
